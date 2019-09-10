@@ -5,3 +5,13 @@ App made in the net ninja's series about react context API and hooks [link](http
 ## [Live Demo](https://fxbooklistapp.netlify.com/)
 
 ![thumbnail](thumbnail.png)
+
+## Installation
+```sh
+  git clone https://github.com/facodes/react-booklist.git
+  cd react-booklist
+  npm install
+  
+  npm run start # runs the app on localhost:3000
+
+```
